@@ -7,7 +7,7 @@ If you need to shorten multiple commands or handle multiple arguments, you're mo
 
 ## Linux (default shell: Bash)
 
-The (default) bash configuration file resides in "$HOME/.bashrc", inside of this file will be our bash configuration with our aliases and/or functions.
+The (default) bash configuration file resides in `$HOME/.bashrc`, inside of this file will be our bash configuration with our aliases and/or functions.
 
 - An **alias** is written like so:
 
