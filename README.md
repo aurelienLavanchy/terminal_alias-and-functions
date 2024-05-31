@@ -48,7 +48,7 @@ The config file is also (by default) at the root of our user (`~`), if it doesn'
 
 - **Functions** work "mostly" the same, but you don't need the `function` keyword and you have access to an argument array (among other things):
 
-  ```
+  ```javascript // same as above
   del() {
       rm -f $*
   }
