@@ -59,3 +59,10 @@ The config file is also (by default) at the root of our user (`~`), if it doesn'
 Same as Linux; if it doesn't already exist, create `%USER%\.bashrc` and put your config inside.
 
 For aliases in Powershell check the [documentation](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_aliases)
+
+### More CLI tools
+
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
+- [broot](https://dystroy.org/broot/)
+- [lsd](https://github.com/lsd-rs/lsd)
+- [bat](https://github.com/sharkdp/bat)
